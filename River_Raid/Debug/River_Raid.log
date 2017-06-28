@@ -1,0 +1,87 @@
+﻿  Datos.cpp
+  Disparos.cpp
+  Enemigo.cpp
+  Gasolina.cpp
+  Jugador.cpp
+  MyForm.cpp
+c:\users\lucio\documents\visual studio 2015\projects\river_raid-completo\river_raid\MyForm.h(739): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Vector.cpp
+Vector.cpp(23): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(399): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(406): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(413): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(420): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(427): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(435): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(442): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(449): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(456): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(463): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(470): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(477): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(484): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(491): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(498): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(505): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(512): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(519): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(526): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(533): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(540): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(547): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(554): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(561): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(579): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(585): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(609): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(616): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(643): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(648): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(677): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(683): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(706): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(713): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(736): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(742): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(765): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(772): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(795): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(801): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(824): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(831): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(854): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(861): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(884): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(891): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(913): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(920): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(943): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(950): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(973): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(980): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(1003): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(1009): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(1032): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(1038): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(1061): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(1068): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(1090): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(1097): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(1116): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(1123): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(1146): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(1153): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(1179): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(1185): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(1209): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(1216): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(1240): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(1247): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(1271): warning C4018: '<': no coinciden signed/unsigned
+Vector.cpp(1276): warning C4018: '<': no coinciden signed/unsigned
+  Generando código...
+c:\users\lucio\documents\visual studio 2015\projects\river_raid-completo\river_raid\jugador.cpp(81): warning C4700: se utilizó la variable local 'Y' sin inicializar
+c:\users\lucio\documents\visual studio 2015\projects\river_raid-completo\river_raid\jugador.cpp(81): warning C4700: se utilizó la variable local 'X' sin inicializar
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  River_Raid.vcxproj -> C:\Users\lucio\Documents\Visual Studio 2015\Projects\River_Raid-Completo\Debug\River_Raid.exe
+  River_Raid.vcxproj -> C:\Users\lucio\Documents\Visual Studio 2015\Projects\River_Raid-Completo\Debug\River_Raid.pdb (Full PDB)
